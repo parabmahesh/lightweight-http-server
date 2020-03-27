@@ -1,0 +1,21 @@
+{
+  "name": "lightweight-http-server",
+  "version": "1.0.0",
+  "description": "A mininal self sufficient http server",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "test"
+  },
+  "keywords": [
+    "node.js",
+    "javascript",
+    "server",
+    "lightweight",
+    "independent",
+    "minimal",
+    "http"
+  ],
+  "author": "Mahesh Parab",
+  "license": "ISC"
+}
